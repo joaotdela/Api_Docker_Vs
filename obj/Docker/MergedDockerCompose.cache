@@ -18,13 +18,13 @@ services:
       protocol: tcp
     volumes:
     - type: bind
-      source: C:\Users\UsuÃ¡rio\AppData\Roaming/Microsoft/UserSecrets
+      source: C:\Users\Usu├írio\AppData\Roaming/Microsoft/UserSecrets
       target: /root/.microsoft/usersecrets
       read_only: true
       bind:
         create_host_path: true
     - type: bind
-      source: C:\Users\UsuÃ¡rio\AppData\Roaming/ASP.NET/Https
+      source: C:\Users\Usu├írio\AppData\Roaming/ASP.NET/Https
       target: /root/.aspnet/https
       read_only: true
       bind:
