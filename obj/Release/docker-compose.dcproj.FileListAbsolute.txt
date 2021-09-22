@@ -1,0 +1,11 @@
+D:\Escola\Pam\Api_Zoo\bin\Release\Api_Zoo.deps.json
+D:\Escola\Pam\Api_Zoo\bin\Release\Api_Zoo.runtimeconfig.json
+D:\Escola\Pam\Api_Zoo\bin\Release\Api_Zoo.runtimeconfig.dev.json
+D:\Escola\Pam\Api_Zoo\bin\Release\appsettings.Development.json
+D:\Escola\Pam\Api_Zoo\bin\Release\appsettings.json
+D:\Escola\Pam\Api_Zoo\bin\Release\Api_Zoo.exe
+D:\Escola\Pam\Api_Zoo\bin\Release\Api_Zoo.dll
+D:\Escola\Pam\Api_Zoo\bin\Release\Api_Zoo.pdb
+D:\Escola\Pam\Api_Zoo\obj\Release\docker-compose.dcproj.AssemblyReference.cache
+D:\Escola\Pam\Api_Zoo\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Escola\Pam\Api_Zoo\obj\Release\docker-compose.dcproj.CopyComplete

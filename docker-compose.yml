@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  api_zoo:
+    image: ${DOCKER_REGISTRY-}apizoo
+    build:
+      context: .
+      dockerfile: Api_Zoo/Dockerfile

@@ -1,0 +1,7 @@
+D:\Escola\Pam\Api_Zoo\Api_Zoo\obj\Release\netcoreapp3.1\PubTmp\Out\Api_Zoo.exe
+D:\Escola\Pam\Api_Zoo\Api_Zoo\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Escola\Pam\Api_Zoo\Api_Zoo\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Escola\Pam\Api_Zoo\Api_Zoo\obj\Release\netcoreapp3.1\PubTmp\Out\Api_Zoo.dll
+D:\Escola\Pam\Api_Zoo\Api_Zoo\obj\Release\netcoreapp3.1\PubTmp\Out\Api_Zoo.deps.json
+D:\Escola\Pam\Api_Zoo\Api_Zoo\obj\Release\netcoreapp3.1\PubTmp\Out\Api_Zoo.runtimeconfig.json
+D:\Escola\Pam\Api_Zoo\Api_Zoo\obj\Release\netcoreapp3.1\PubTmp\Out\Api_Zoo.pdb
